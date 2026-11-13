@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammad Masab 👋
 
-<!--
-**MuhammadMasab123/MuhammadMasab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building for the web and mobile — clean interfaces, working products.
 
-Here are some ideas to get you started:
+## 🛠️ What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development** — HTML, CSS, JavaScript, Node.js
+- **Mobile Apps** — Flutter & Dart
+- **UI** — modern, responsive interfaces
+
+## 🚀 Currently
+
+- Building mobile apps with Flutter
+- Open to freelance web and mobile projects
+
+## 📫 Reach me
+
+- 📧 masabm286@gmail.com
